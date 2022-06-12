@@ -1,0 +1,42 @@
+{
+    "name": "Supeltrav Tour, Travel & Outbound Team",
+    "short_name": "Supeltrav",
+	"description": "Tour, Travel & Outbound Team",
+    "icons": [{
+    "src": "https://supeltrav.netlify.app/images/icon-128x128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "https://supeltrav.netlify.app/images/apple-touch-icon.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "https://supeltrav.netlify.app/images/ms-touch-icon-144x144-precomposed.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "https://supeltrav.netlify.app/images/chrome-touch-icon-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+        {
+            "src": "https://supeltrav.netlify.app/images/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+	"orientation": "any",
+	"scope": "https://supeltrav.blogspot.com",
+	"lang": "id-ID",
+    "theme_color": "#FF6600",
+    "background_color": "#000000",
+    "display": "standalone",
+	"start_url": "https://supeltrav.blogspot.com",
+	"screenshots": [
+    {
+      "src": "https://supeltrav.netlify.app/images/ss1.PNG",
+      "sizes": "1280x650",
+      "type": "image/png"
+    }
+  ]
+}
